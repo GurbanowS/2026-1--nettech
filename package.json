@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "nettech",
   "version": "1.0.0",
   "description": "Сетевые технологии",
   "main": "index.js",
   "repository": "https://github.com/GurbanowS/2026-1--nettech",
+=======
+  "name": "net-os-admin",
+  "version": "1.0.0",
+  "description": "Администрирование сетевых подсистем",
+  "main": "index.js",
+  "repository": "https://github.com/GurbanowS/2026-1--net--os-admin",
+>>>>>>> origin2/master
   "author": "Your Name <you@example.com>",
   "license": "CC-BY-4.0",
     "config": {
